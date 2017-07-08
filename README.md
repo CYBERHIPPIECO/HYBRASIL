@@ -7,3 +7,5 @@ Write a premise for the interactive project.
 (see notes about interactive experiments and multicharacter gameplay)    
 
 I remember huts and people and interactions.
+
+3D Interactive Narrative Island
